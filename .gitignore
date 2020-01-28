@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# ignore
+Projects/
+scholarships/
+utils/
+workshops/
+dna.github.io/
